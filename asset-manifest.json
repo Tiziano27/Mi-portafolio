@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Mi-portafolio/static/css/main.62fcd0bc.css",
+    "main.js": "/Mi-portafolio/static/js/main.553d8366.js",
+    "static/js/787.752e8b71.chunk.js": "/Mi-portafolio/static/js/787.752e8b71.chunk.js",
+    "static/media/interfaz-virtual-del-teclado-22752687.webp": "/Mi-portafolio/static/media/interfaz-virtual-del-teclado-22752687.5fad6274f7fbd3044b4f.webp",
+    "index.html": "/Mi-portafolio/index.html",
+    "main.62fcd0bc.css.map": "/Mi-portafolio/static/css/main.62fcd0bc.css.map",
+    "main.553d8366.js.map": "/Mi-portafolio/static/js/main.553d8366.js.map",
+    "787.752e8b71.chunk.js.map": "/Mi-portafolio/static/js/787.752e8b71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62fcd0bc.css",
+    "static/js/main.553d8366.js"
+  ]
+}
