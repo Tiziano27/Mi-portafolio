@@ -1,6 +1,7 @@
 {
   "name": "mi-portafolio",
   "version": "0.1.0",
+  "homepage":"http://Tiziano27.github.oi/Mi-portafolio",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -8,6 +9,7 @@
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.2.3",
     "bootstrap-icons": "^1.10.3",
+    "gh-pages": "^5.0.0",
     "parallax-js": "^3.1.0",
     "particles.js": "^2.0.0",
     "react-bootstrap": "^2.7.0",
@@ -17,6 +19,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
