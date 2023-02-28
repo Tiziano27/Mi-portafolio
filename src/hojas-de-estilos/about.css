@@ -1,33 +1,33 @@
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
-.about{
-    padding: 10rem;
-    background: transparent;
+.about {
+  padding: 10rem;
+  background: transparent;
 }
-.rodar{
-    background-color: transparent;
+.rodar {
+  background-color: transparent;
 }
-.rodar.active{
-    margin: 1.5rem ;
-    background-color: #080808;
-    transition: all 0.5s ease-in;
-    border-radius: 10px;
+.rodar.active {
+  margin: 1.5rem;
+  background-color: #080808;
+  transition: all 0.5s ease-in;
+  border-radius: 10px;
 }
 
-h1{
-    border-bottom: 1px solid #4ab;
+h1 {
+  border-bottom: 1px solid #4ab;
 }
 
 p {
-    display: block;
-    padding-top: 0.5em;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
+  display: block;
+  padding-top: 0.5em;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
 }
-.len{
-    color: #4ab;
+.len {
+  color: #4ab;
 }
